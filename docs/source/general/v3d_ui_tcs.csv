@@ -1,0 +1,35 @@
+﻿Feature ,Tested via UI test Automation
+**Slice Teller Tab**,
+ If present, 1
+ Filtering by sliceteller click,1
+ Filtered columns,
+,
+**Scenarios Tab**,
+ Add Scenarios Works,YTD
+ Check if Scenarios Tab has any rows,YTD
+ Accuracy & Support Always less than or equal to 1,YTD
+,
+**Distribution Tab**,
+ Filtering for continous values (confidence or ious),YTD
+ Filtering for discrete values (Labels or tp/fp/fn),YTD
+ Reset Filters,1
+,
+**Tilescape Tab**,
+ If Tilescape has any datapoints without adding any conditions,YTD
+ If datapoints single click result in ""1 of n samples,YTD
+,
+**Summary Tab**,
+ Summary Tab present,1
+ Summary has data,1
+ Summary has models,1
+ Summary is calculated of all objects,1
+,
+**Robustness Tab**,
+,
+**Sensitivity**,
+,
+**Data Pane**,
+ Filtering for continous values (size/area),YTD
+ Filtering for discrete values (Labels),YTD
+ Reset Filters,YTD
+ Add Scenarios from datapane,YTD

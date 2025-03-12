@@ -1,0 +1,6 @@
+fiftyone
+m2r2
+sphinx==7.2.6
+sphinx-autodocgen
+sphinx_rtd_theme
+sphinxcontrib.drawio
